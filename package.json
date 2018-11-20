@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browserify-fs": "^1.0.0",
+    "browserify-fs": "git@github.com:totalpave/browserify-fs.git#fix-security-vulnerabilities",
     "buffer-es6": "^4.9.2",
     "crypto-browserify": "^3.11.0",
     "process-es6": "^0.11.2"
